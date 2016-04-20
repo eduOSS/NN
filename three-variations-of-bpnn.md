@@ -30,3 +30,5 @@
    end-loop all item   
  end-loop   
 ```
+
+[reference](https://visualstudiomagazine.com/articles/2015/07/01/variation-on-back-propagation.aspx)
